@@ -1,1 +1,13 @@
 
+{
+  "model_id": "runwayml/stable-diffusion-v1-5",
+  "controlnet_id": "lllyasviel/control_v11p_sd15_lineart",
+  "prompt": "copic marker rendering, hard-edged marker shading, flat color blocks, minimal blending, visible marker texture, poster-like color blocking, crisp cel-like look",
+  "negative": "airbrush, soft gradient, painterly, oil paint, smudged, change lineart, redraw outlines, blurry, low contrast, noisy",
+  "steps": 28,
+  "cfg": 6.5,
+  "strength": 0.62,
+  "controlnet_scale": 1.25,
+  "width": 768,
+  "height": 768
+}
