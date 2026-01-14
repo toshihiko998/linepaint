@@ -1,1 +1,13 @@
+{
+  "model_id": "runwayml/stable-diffusion-v1-5",
+  "controlnet_id": "lllyasviel/control_v11p_sd15_lineart",
+  "prompt": "anime lineart, clean black ink lines, angular construction, straight dominant strokes, confident line weight variation, clear silhouette, no shading, no color, white background",
+  "negative": "sketchy mess, blurry, watercolor, pencil shading, hatching, color, gray background, extra lines, doubled lines, broken lines, jitter, soft gradients",
+  "steps": 24,
+  "cfg": 6.0,
+  "strength": 0.55,
+  "controlnet_scale": 1.05,
+  "width": 768,
+  "height": 768
+}
 
